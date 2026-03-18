@@ -1,0 +1,31 @@
+{
+    "4740574009820": {
+        "ITEMNAME": "VSL keedusalaami 105 g",
+        "layout": "2x2",
+        "rois": {
+            "package_1": [[120, 220], [1770, 1170]],
+            "package_2": [[130, 1190], [1780, 2150]],
+            "package_3": [[1800, 240], [3370, 1160]],
+            "package_4": [[1800, 1200], [3360, 2150]]
+        },
+        "BESTBEFOREDAYS": 90
+    },
+    "4740574081192": {
+        "ITEMNAME": "Fitlap Veisesink 105 g",
+        "layout": "2x2",
+        "rois": {},
+        "BESTBEFOREDAYS": 29
+    },
+    "4740574090002": {
+        "ITEMNAME": "Kalkunifileesink suitsutatud 105 g",
+        "layout": "2x2",
+        "rois": {},
+        "BESTBEFOREDAYS": 29
+    },
+    "4740574008052": {
+        "ITEMNAME": "Nõo Rulaad 135 g",
+        "layout": "2x2",
+        "rois": {},
+        "BESTBEFOREDAYS": 29
+    }
+}
