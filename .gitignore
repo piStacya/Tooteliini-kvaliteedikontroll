@@ -1,0 +1,20 @@
+# Genereeritud pildid (tekivad rtsp_slicing.py käivitamisel)
+andmed/salami/date/
+andmed/salami/full_frames/
+andmed/salami/label1/
+andmed/salami/label2/
+andmed/salami/product_area/
+andmed/veis/date/
+andmed/veis/full_frames/
+andmed/veis/label1/
+andmed/veis/label2/
+andmed/veis/product_area/
+andmed/kalkun/date/
+andmed/kalkun/full_frames/
+andmed/kalkun/label1/
+andmed/kalkun/label2/
+andmed/kalkun/product_area/
+
+# Python cache
+__pycache__/
+*.pyc
